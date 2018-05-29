@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="putVisibility">Ativar Visibilidade Durante 300s</string>
+    <string name="tbOff">Bluetooth Desligado</string>
+    <string name="tbOn">Bluetooth Ligado</string>
+</resources>
